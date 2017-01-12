@@ -1,2 +1,6 @@
 ƒeƒXƒg‚¾‚æ
 hennkou
+
+hello git!
+Edit test!
+branch test!
